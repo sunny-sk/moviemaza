@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 
-import classes from './NavBar/NavBar.module.scss';
+import classes from './NavBar.module.scss';
 const NavBar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark  bg-danger">
