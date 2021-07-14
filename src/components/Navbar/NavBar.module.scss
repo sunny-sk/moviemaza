@@ -1,0 +1,21 @@
+.navbar-x {
+  color: rgba(255, 255, 255, 0.87) !important;
+  font-family: sans-serif;
+  font-size: 17px;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover {
+    text-decoration: none;
+    background: white;
+    color: #cc0000 !important;
+    transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+  }
+}
+
+.custom-active {
+  color: white;
+}
+
+.logo {
+  cursor: pointer;
+}

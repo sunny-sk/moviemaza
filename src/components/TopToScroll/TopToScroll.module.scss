@@ -1,0 +1,28 @@
+.scroll{
+ position: fixed;
+ bottom: 30px;
+ right: 30px;
+ background-color: red;
+ border-radius: 50%;
+ height: 50px;
+ width: 50px;
+ z-index: 99999;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 30px;
+ cursor: pointer;
+}
+
+
+
+// {
+//   background-color: black;
+//   border: none;
+//   border-radius: 50%;
+//   color: white;
+//   cursor: pointer;
+//   font-size: 16px;
+//   line-height: 48px;
+//   width: 48px;
+// }

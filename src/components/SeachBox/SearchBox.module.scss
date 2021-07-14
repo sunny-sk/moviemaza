@@ -1,0 +1,13 @@
+.col{
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+@media  screen and (max-width: 727px) {
+    .col{
+        width: 70%;
+        margin-left: 15%;
+    
+     }
+  }
