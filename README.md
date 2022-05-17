@@ -1,4 +1,9 @@
 
+
+## Live link
+
+https://moviemaza.vercel.app/up-coming
+
 ## Getting Started
 
 modify meta tags in _document.js
